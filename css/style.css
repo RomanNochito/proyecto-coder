@@ -326,5 +326,10 @@ header nav ul li {
     flex-direction: column;
   }
 }
-
+.grid-index div img{
+  transition: 1s;
+}
+.grid-index div img:hover{
+  transform: scale(0.9);
+}
 
